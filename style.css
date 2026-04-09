@@ -1,3 +1,25 @@
 ﻿body{
 	background-color:purple
 }
+h1.title{
+	border:solid;
+	background-color:aqua;
+	width:320px;
+}
+h1.search{
+	border:solid;
+	background-color:white;
+	width:105px;
+	text-align:center;
+}
+.title-header{
+	text-align: center;
+	margin-left: 800px;
+}
+.search-bar{
+	text-align:right;
+	margin-left: 350px;
+}
+.title-header, .search-bar{
+	display:inline-block;
+}
