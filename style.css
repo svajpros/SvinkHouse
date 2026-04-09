@@ -23,3 +23,10 @@ h1.search{
 .title-header, .search-bar{
 	display:inline-block;
 }
+.hitman-codename-47-1st-demo, .degutis{
+	display:inline-block;
+}
+.degutis{
+	text-align:right;
+	margin-left:200px;
+}
