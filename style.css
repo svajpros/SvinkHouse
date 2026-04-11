@@ -14,19 +14,43 @@ h1.search{
 }
 .title-header{
 	text-align: center;
-	margin-left: 800px;
+	margin-left: 450px;
 }
 .search-bar{
 	text-align:right;
-	margin-left: 350px;
+	margin-left: 150px;
 }
 .title-header, .search-bar{
 	display:inline-block;
 }
-.hitman-codename-47-1st-demo, .degutis{
-	display:inline-block;
+a.page1 img {
+    width: 100%;
+    height: 100%;
+    display: block;
 }
-.degutis{
-	text-align:right;
-	margin-left:100px;
+a.page2 img {
+	width: 365px;
+	height: 492px;
+	display: block;
+}
+button.page2 {
+	text-align: right;
+	margin-left: 10px;
+}
+iframe.page1{
+	width: 1200px;
+	height: 850px;
+	text-align:center;
+	margin-left: 25px;
+	margin-top: 14px;
+}
+iframe.page2{
+	width: 600px;
+	height: 850px;
+	text-align:center;
+	margin-left: 350px;
+	margin-top: 14px;
+}
+a.page1 img, a.page2 img {
+	display: inline-block;
 }
